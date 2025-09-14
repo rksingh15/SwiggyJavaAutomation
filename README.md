@@ -34,7 +34,7 @@ Swiggy-Automation/
 ## Setup & Execution Steps  
 
 1. Clone the repository  
-   git clone https://github.com/<your-username>/swiggy-automation.git  
+   git clone (https://github.com/rksingh15/SwiggyJavaAutomation)  
    cd swiggy-automation  
 
 2. Install dependencies  

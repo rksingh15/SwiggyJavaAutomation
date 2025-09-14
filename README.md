@@ -35,7 +35,7 @@ Swiggy-Automation/
 
 1. Clone the repository  
    git clone (https://github.com/rksingh15/SwiggyJavaAutomation)  
-   cd swiggy-automation  
+ 
 
 2. Install dependencies  
    Make sure you have:  

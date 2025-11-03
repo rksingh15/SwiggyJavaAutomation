@@ -1,5 +1,5 @@
 # SwiggyJavaAutomation
-This website has been tested with Selenium and Java.
+This website has been tested with Selenium and Java using maven.
 ##
 - Launching the Swiggy website  
 - Searching for restaurants  

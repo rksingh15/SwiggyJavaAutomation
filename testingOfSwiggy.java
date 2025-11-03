@@ -12,7 +12,7 @@ public class testingOfSwiggy {
 	WebDriver driver;
 
 	public void launchBrowser() {
-//		driver = new ChromeDriver();
+//	 	driver = new ChromeDriver();
 		driver= new FirefoxDriver();
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
@@ -276,4 +276,5 @@ public class testingOfSwiggy {
 		 //--8-----------------------------------------------------
 		 swiggy.proceedToPayment();
 	}
+
 }
